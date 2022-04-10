@@ -14,7 +14,7 @@ My skills:  <br>
 ✔️ Custom Websites Development  <br>
 ✔️ CSS / SVG animations <br>
 ✔️ Cross-browser compatibility (Edge, Safari, Chrome, Firefox, etc.) <br>
-✔️ BEM-, atomic-methodology
+✔️ BEM-, atomic-methodology  <br>
 ✔️ GULP  <br>
 
 
