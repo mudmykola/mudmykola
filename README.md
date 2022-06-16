@@ -1,4 +1,4 @@
-🖐 I'm Developer (Sass, HTML, JS) from 🇺🇦 with experience over 1 years in developing professional HTML Responsive Landing pages and Custom Websites.
+🖐 I'm Junior Front-End Engineer from 🇺🇦 with experience over 1 years in developing professional HTML Responsive Landing pages and Custom Websites.
 
 I prefer hourly based contracts.
 I'm looking for longterm relationship with the employer. Ready for a flexible work schedule.
