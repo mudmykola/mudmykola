@@ -4,8 +4,8 @@ I prefer hourly based contracts.
 I'm looking for longterm relationship with the employer. Ready for a flexible work schedule.
 
 My skills:  <br>
-✔️ HTML5, / jade template languages <br>
-✔️ CSS3, CSS preprocessors (SASS, Less, Stylus)  <br>
+✔️ HTML5 / jade template languages <br>
+✔️ CSS3 CSS preprocessors (SASS, Less, Stylus)  <br>
 ✔️ Version Control System (GIT)  <br>
 ✔️ Bootstrap   <br>
 ✔️ JS  <br>
@@ -14,7 +14,7 @@ My skills:  <br>
 ✔️ Custom Websites Development  <br>
 ✔️ CSS / SVG animations <br>
 ✔️ Cross-browser compatibility (Edge, Safari, Chrome, Firefox, etc.) <br>
-✔️ BEM-, atomic-methodology  <br>
+✔️ BEM- atomic-methodology  <br>
 ✔️ GULP  <br>
 
 
