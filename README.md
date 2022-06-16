@@ -5,7 +5,7 @@ I'm looking for longterm relationship with the employer. Ready for a flexible wo
 
 My skills:  <br>
 ✔️ HTML5 / jade template languages <br>
-✔️ CSS3 CSS preprocessors (SASS, Less, Stylus)  <br>
+✔️ CSS preprocessors (SASS, Less, Stylus)  <br>
 ✔️ Version Control System (GIT)  <br>
 ✔️ Bootstrap   <br>
 ✔️ JS  <br>
