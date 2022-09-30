@@ -1,7 +1,4 @@
-🖐 I'm Junior Front-End Engineer from 🇺🇦 with experience over 1 years in developing professional HTML Responsive Landing pages and Custom Websites.
-
-I prefer hourly based contracts.
-I'm looking for longterm relationship with the employer. Ready for a flexible work schedule.
+🖐 I am looking for a company where I can start and develop my skills as a front-end engineer on real projects. Work in a team and be part of an interesting and exciting development process. During my learning journey, I mastered such technologies as: HTML5, CSS/SASS, JS(ES6+), Vue, Git and additional npm libraries.
 
 My skills:  <br>
 ✔️ HTML5 / jade template languages <br>
