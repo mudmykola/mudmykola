@@ -1,5 +1,3 @@
-🖐 I am looking for a company where I can start and develop my skills as a front-end engineer on real projects. Work in a team and be part of an interesting and exciting development process. During my learning journey, I mastered such technologies as: HTML5, CSS/SASS, JS(ES6+), Vue, Git and additional npm libraries.
-
 My skills:  <br>
 ✔️ HTML5 / jade template languages <br>
 ✔️ CSS preprocessors (SASS, Less, Stylus)  <br>
