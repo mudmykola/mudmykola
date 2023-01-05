@@ -2,9 +2,10 @@ My skills:  <br>
 ✔️ HTML5 / jade template languages <br>
 ✔️ CSS preprocessors (SASS, Less, Stylus)  <br>
 ✔️ Version Control System (GIT)  <br>
-✔️ Bootstrap   <br>
-✔️ JS  <br>
-✔️ Vue.js (basics)  <br>
+✔️ Tailwind CSS <br>
+✔️ JS <br>
+✔️ Vue.js <br>
+✔️ Vuex <br>
 ✔️ Responsiveness / Mobile-first development / Pixel-perfect development  <br>
 ✔️ Custom Websites Development  <br>
 ✔️ CSS / SVG animations <br>
