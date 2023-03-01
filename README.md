@@ -13,6 +13,9 @@ My skills:  <br>
 ✔️ BEM- atomic-methodology  <br>
 ✔️ GULP  <br>
 
+✔️CV LINK:
+https://mudmykola.github.io/mud-page/img/Mykola%20Mud%60%20-%20Junior%20Front-End%20Engineer%20-%20CV.pdf
+
 
 Have any questions? Want to discuss your projects? 
 Feel free to contact me and have a nice day!;)
