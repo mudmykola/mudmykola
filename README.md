@@ -9,6 +9,7 @@ My skills:  <br>
 ✔️ Responsiveness / Mobile-first development / Pixel-perfect development  <br>
 ✔️ Custom Websites Development  <br>
 ✔️ CSS / SVG animations <br>
+✔️ AOS / GSAP <br>
 ✔️ Cross-browser compatibility (Edge, Safari, Chrome, Firefox, etc.) <br>
 ✔️ BEM- atomic-methodology  <br>
 ✔️ GULP  <br>
