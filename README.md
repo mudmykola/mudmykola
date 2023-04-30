@@ -2,6 +2,7 @@
 <meta name="keywords" content="Front-End (Vue.js) Engineer, GitHub Stats, 
 GitHub Profile, JavaScript, Vue, Vuex, TailwindCSS, HTML5, CSS3, Docker, 
 Webpack, Gulp, AOS"/>
+>>>>>>> dev
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
