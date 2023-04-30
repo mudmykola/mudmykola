@@ -8,7 +8,8 @@ My skills:  <br>
 ✔️ Vuex <br>
 ✔️ Responsiveness / Mobile-first development / Pixel-perfect development  <br>
 ✔️ Custom Websites Development  <br>
-✔️ AOS / SVG animations / GSAP <br>
+✔️ CSS / SVG animations <br>
+✔️ AOS / GSAP <br>
 ✔️ Cross-browser compatibility (Edge, Safari, Chrome, Firefox, etc.) <br>
 ✔️ BEM- atomic-methodology  <br>
 ✔️ GULP  <br>
