@@ -2,7 +2,6 @@
 <meta name="keywords" content="Front-End (Vue.js) Engineer, GitHub Stats, 
 GitHub Profile, JavaScript, Vue, Vuex, TailwindCSS, HTML5, CSS3, Docker, 
 Webpack, Gulp, AOS"/>
->>>>>>> dev
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
@@ -14,8 +13,8 @@ Webpack, Gulp, AOS"/>
   <br>
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.
-vercel.app/api?username=mudmykola&show_icons=true&theme=vue-dark&bg_color=0d1117
-&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/>
+vercel.app/api?username=mudmykola&show_icons=true&theme=vue-dark&bg_color
+=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/>
   </a>
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudmykola&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
