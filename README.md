@@ -13,11 +13,11 @@ Webpack, Gulp, AOS"/>
   <br>
   <a href="#">
     <img height="190rem" alt="GitHub Stats" 
-src="https://github-readme-stats.vercel.app/api?username=mudmykola&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=mudmykola&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&show_icons=true&hide_border=false&count_private=true"/>
   </a>
 
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudmykola&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudmykola&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&show_icons=true&hide_border=false&layout=compact"/>
   </a>
 </div> 
 
