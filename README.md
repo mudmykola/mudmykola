@@ -17,7 +17,8 @@ src="https://github-readme-stats.vercel.app/api?username=mudmykola&theme=vue-dar
   </a>
 
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudmykola&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="190rem" alt="Most Used Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudmykola&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&show_icons=true&hide_border=false&layout=compact"/>
   </a>
 </div> 
 
