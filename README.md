@@ -1,5 +1,6 @@
 <meta name="description" content="GitHub profile in green color">
-<meta name="keywords" content="Front-End (Vue.js) Engineer, GitHub Stats, 
+<meta name="keywords" content="Software Engineer | Vue | Nuxt 
+ Shopify , GitHub Stats, 
 GitHub Profile, JavaScript, Vue, Vuex, TailwindCSS, HTML5, CSS3, Docker, 
 Webpack, Gulp, AOS"/>
 
@@ -7,7 +8,7 @@ Webpack, Gulp, AOS"/>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mykola+Mud`;I'm+from+Ukraine;I'm+a+Front-End+Engineer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mykola+Mud`;I'm+from+Ukraine;I'm+a+Software+Engineer;Be+Welcome!+ツ)
 
 <div align="center">
   <br>
