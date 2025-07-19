@@ -1,26 +1,34 @@
-<!-- 💻 META SEO -->
-<meta name="description" content="Nuxt / Shopify / Vue Developer from Ukraine – Futuristic GitHub Profile">
-<meta name="keywords" content="Mykola Mud, Vue, Nuxt, Shopify, TailwindCSS, Frontend Developer, GitHub, JavaScript, Portfolio, Web Developer, CSS3, Gulp, Webpack, Figma, Supabase">
+<!-- Nuxt-Style README with Full Stack -->
+<meta name="description" content="Mykola Mud | Full Frontend Stack Dev – Vue, Nuxt, Shopify, Tailwind, Supabase">
+<meta name="keywords" content="Nuxt Developer, Frontend Dev, Vue, TailwindCSS, Shopify, Liquid, Gulp, Webpack, Firebase, Supabase, GitHub, Ukraine, Mykola Mud">
 
-<!-- 🚀 NEON HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3da37a&section=header&text=Mykola%20Mud%20👨‍💻&fontColor=ffffff&fontSize=40&animation=twinkling" />
-
-<!-- ⚡ TYPING ANIMATION -->
+<!-- 🌊 Nuxt Green Wave -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&color=00FF41&width=900&lines=const+dev+=Mykola+Mud();;🇺🇦+Frontend+Dev+from+Ukraine;;Vue,+Nuxt,+Shopify+Expert;;Loves+Dark+UI,+Automation,+Minimalism;;Welcome+to+My+GitHub+Profile+ツ" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=150&section=header&text=Mykola%20Mud&fontColor=ffffff&fontSize=38&animation=twinkling" />
+</p>
+
+<!-- ⚡ Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00DC82&width=900&lines=Nuxt3+%7C+Vue+%7C+TailwindCSS+%7C+Shopify;Building+scalable+UI+with+modern+tools;DX-first+Developer+from+Ukraine" alt="Typing animation" />
 </p>
 
 ---
 
-### 🧠 `About Me` in Code
+### 🧠 `about.js`
 
 ```js
-const Mykola = {
-  💼 role: "Frontend Developer",
-  🌍 location: "Ukraine 🇺🇦",
-  🛠️ tech: ["Vue", "Nuxt", "Shopify", "Tailwind", "Supabase", "Liquid", "Gulp"],
-  🎯 focus: "Headless eCommerce & UI Systems",
-  🧠 mindset: ["Clean code", "Automation", "Dark mode"],
-  💬 contact: "mudmykola@gmail.com",
-  🤝 hireable: true
+const mykola = {
+  name: "Mykola Mud",
+  role: "Frontend Developer",
+  location: "Ukraine 🇺🇦",
+  stack: [
+    "Vue", "Nuxt", "Pinia", "TailwindCSS", "Vuetify", "Material UI",
+    "JavaScript", "HTML5", "CSS3", "Sass", "Liquid", "Python"
+  ],
+  tools: [
+    "Shopify", "Supabase", "Firebase", "Gulp", "Webpack", "Docker",
+    "Figma", "Git", "GraphQL", "Google Sheets API"
+  ],
+  philosophy: "Minimal code. Clear UX. Fast UI.",
+  availability: "Freelance & collabs 🤝"
 };
