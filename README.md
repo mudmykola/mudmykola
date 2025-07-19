@@ -4,7 +4,7 @@
 
 <!-- 🌊 Nuxt Green Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=150&section=header&text=Mykola%20Mud&fontColor=ffffff&fontSize=38&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=150&section=header&text=Mykola%20Mud'&fontColor=ffffff&fontSize=38&animation=twinkling" />
 </p>
 
 <!-- ⚡ Typing -->
