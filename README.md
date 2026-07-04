@@ -9,7 +9,7 @@
 
 <!-- ⚡ Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00DC82&width=900&lines=Nuxt3+%7C+Vue+%7C+TailwindCSS+%7C+Shopify;Building+scalable+UI+with+modern+tools;DX-first+Developer+from+Ukraine" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00DC82&width=900&lines=Nuxt+%7C+Vue+%7C+TailwindCSS+%7C+Shopify;Building+scalable+UI+with+modern+tools;DX-first+Developer+from+Ukraine" alt="Typing animation" />
 </p>
 
 ---
